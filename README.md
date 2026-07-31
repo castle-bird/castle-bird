@@ -2,6 +2,10 @@
 
 Java와 Spring을 중심으로 백엔드 개발을 하고 있습니다.
 
+<!-- dday:start -->
+🌱 개발자로 성장한 지 **D+39**
+<!-- dday:end -->
+
 ## Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
