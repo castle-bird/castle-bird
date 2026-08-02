@@ -23,5 +23,6 @@ Java와 Spring을 중심으로 백엔드 개발을 하고 있습니다.
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![SVN](https://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=subversion&logoColor=white)
 
 꾸준히 배우고 기록하며, 읽기 쉽고 유지보수하기 좋은 코드를 만들기 위해 노력합니다.
