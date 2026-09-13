@@ -21,6 +21,9 @@ Java와 Spring을 중심으로 백엔드 개발을 하고 있습니다.
 ### Database
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
+### Infrastructure
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![SVN](https://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=subversion&logoColor=white)
