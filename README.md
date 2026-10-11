@@ -1,6 +1,6 @@
 # 안녕하세요, castle-bird입니다 👋
 
-Java와 Spring을 중심으로 백엔드 개발을 하고 있습니다.
+Java/Spring을 중심으로 백엔드 개발을 하고 있습니다.
 
 <!-- dday:start -->
 🌱 개발자로 성장한 지 **D+111**
