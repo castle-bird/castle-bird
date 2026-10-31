@@ -3,7 +3,7 @@
 Java/Spring을 중심으로 백엔드 개발을 하고 있습니다.
 
 <!-- dday:start -->
-🌱 개발자로 성장한 지 **D+131**
+🌱 개발자로 성장한 지 **D+132**
 <!-- dday:end -->
 
 ## Tech Stack
